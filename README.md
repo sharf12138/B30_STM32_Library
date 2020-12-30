@@ -26,8 +26,20 @@ GND|黑|地
 
 <br/>
 
+## 技术参数
+
+[ B30 深度传感器技术参数](http://searobotix.com/b30/specs/)
+
+<br/>
+
 ## 使用教程
 
-[B30 深度传感器快速使用教程（STM32版）](http://searobotix.com/learn/b30-sensor-tutorial-stm32/)
+[ B30 深度传感器快速使用教程（STM32版）](http://searobotix.com/learn/b30-sensor-tutorial-stm32/)
+
+<br/>
+
+## 常见问题
+
+[ B30 深度传感器常见问题 FAQ ](http://searobotix.com/b30/faq/)
 
 <br/>
